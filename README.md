@@ -58,6 +58,9 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung* [[pdf](https://arxiv.org/abs/2302.04023)] 2023.2
 
+1. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**
+
+    *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang* [[pdf](https://arxiv.org/abs/2302.06476)] 2023.2
 
 ## Blogs
 - [ChatGPT Official Blog](https://openai.com/blog/chatgpt/)  
