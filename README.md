@@ -30,9 +30,13 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Amelia Glaese, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh, Laura Weidinger, Martin Chadwick, Phoebe Thacker, Lucy Campbell-Gillingham, Jonathan Uesato, Po-Sen Huang, Ramona Comanescu, Fan Yang, Abigail See, Sumanth Dathathri, Rory Greig, Charlie Chen, Doug Fritz, Jaume Sanchez Elias, Richard Green, Soňa Mokrá, Nicholas Fernando, Boxi Wu, Rachel Foley, Susannah Young, Iason Gabriel, William Isaac, John Mellor, Demis Hassabis, Koray Kavukcuoglu, Lisa Anne Hendricks, Geoffrey Irving* [[pdf](https://arxiv.org/abs/2209.14375)] 2022.9 
 
-1. **Constitutional AI: Harmlessness from AI Feedback.**
+1. 【Claude】**Constitutional AI: Harmlessness from AI Feedback.**
 
     *Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon, Carol Chen, Catherine Olsson, Christopher Olah, Danny Hernandez, Dawn Drain, Deep Ganguli, Dustin Li, Eli Tran-Johnson, Ethan Perez, Jamie Kerr, Jared Mueller, Jeffrey Ladish, Joshua Landau, Kamal Ndousse, Kamile Lukosuite, Liane Lovitt, Michael Sellitto, Nelson Elhage, Nicholas Schiefer, Noemi Mercado, Nova DasSarma, Robert Lasenby, Robin Larson, Sam Ringer, Scott Johnston, Shauna Kravec, Sheer El Showk, Stanislav Fort, Tamera Lanham, Timothy Telleen-Lawton, Tom Conerly, Tom Henighan, Tristan Hume, Samuel R. Bowman, Zac Hatfield-Dodds, Ben Mann, Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Jared Kaplan* [[pdf](https://arxiv.org/abs/2212.08073)] 2022.12
+
+1. **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization.**
+
+    *Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, Ping Yu, Kurt Shuster, Tianlu Wang, Qing Liu, Punit Singh Koura, Xian Li, Brian O'Horo, Gabriel Pereyra, Jeff Wang, Christopher Dewan, Asli Celikyilmaz, Luke Zettlemoyer, Ves Stoyanov* [[pdf](https://arxiv.org/abs/2212.12017)] 2022.12
 
 1. **Fine-tuning language models from human preferences.**
 
@@ -73,6 +77,10 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 1. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**
 
     *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang* [[pdf](https://arxiv.org/abs/2302.06476)] 2023.2
+
+1. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.**
+
+    *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[pdf](https://arxiv.org/abs/2302.05206)] 2023.2
 
 ## Blogs
 - [ChatGPT Official Blog](https://openai.com/blog/chatgpt/)  
