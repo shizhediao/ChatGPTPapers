@@ -82,6 +82,14 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[pdf](https://arxiv.org/abs/2302.05206)] 2023.2
 
+1. **Theory of Mind May Have Spontaneously Emerged in Large Language Models.**
+
+    *Michal Kosinski* [[pdf](https://arxiv.org/abs/2302.02083)] 2023.2
+
+1. **Augmented Language Models: a Survey.**
+
+    *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.07842)] 2023.2
+
 ## Blogs
 - [ChatGPT Official Blog](https://openai.com/blog/chatgpt/)  
 - [ChatGPTPro](https://chatgpt.pro/) 
