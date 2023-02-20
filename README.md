@@ -70,6 +70,18 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
     
     *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei* [[pdf]](https://arxiv.org/abs/2210.11416) 2022.10
 
+1. **Is ChatGPT A Good Translator? A Preliminary Study**
+
+    *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu* [[pdf](https://arxiv.org/abs/2301.08745)] 2023.1
+
+1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis**
+
+     *Terry Yue Zhuo, Yujin Huang, Chunyang Chen, Zhenchang Xing* [[pdf](https://arxiv.org/abs/2301.12867)] 2023.1
+
+1. **A Categorical Archive of ChatGPT Failures**
+
+     *Ali Borji* [[pdf](https://arxiv.org/abs/2302.03494)] 2023.2
+
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
 
     *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung* [[pdf](https://arxiv.org/abs/2302.04023)] 2023.2
