@@ -50,7 +50,7 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
    
    *Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi* [[pdf]](https://aclanthology.org/2022.acl-long.244/) 2021.4
 
-1. **Finetuned language models are zero-shot learners**
+1. **Finetuned language models are zero-shot learners.**
 
     *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le* [[pdf]](https://arxiv.org/abs/2109.01652) 2021.9
 
@@ -70,19 +70,19 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
     
     *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei* [[pdf]](https://arxiv.org/abs/2210.11416) 2022.10
 
-1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection**
+1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.**
 
     *Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, Yuxuan Ding, Jianwei Yue, Yupeng Wu* [[pdf](https://arxiv.org/abs/2301.07597)] 2023.1
 
-1. **Is ChatGPT A Good Translator? A Preliminary Study**
+1. **Is ChatGPT A Good Translator? A Preliminary Study.**
 
     *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu* [[pdf](https://arxiv.org/abs/2301.08745)] 2023.1
 
-1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis**
+1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
 
      *Terry Yue Zhuo, Yujin Huang, Chunyang Chen, Zhenchang Xing* [[pdf](https://arxiv.org/abs/2301.12867)] 2023.1
 
-1. **A Categorical Archive of ChatGPT Failures**
+1. **A Categorical Archive of ChatGPT Failures.**
 
      *Ali Borji* [[pdf](https://arxiv.org/abs/2302.03494)] 2023.2
 
