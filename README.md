@@ -106,6 +106,10 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.07842)] 2023.2
 
+1. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.**
+
+    *Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie* [[pdf](https://arxiv.org/abs/2302.12095)] 2023.2
+
 ## Blogs
 - [ChatGPT Official Blog](https://openai.com/blog/chatgpt/)  
 - [ChatGPTPro](https://chatgpt.pro/) 
