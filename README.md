@@ -110,6 +110,10 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie* [[pdf](https://arxiv.org/abs/2302.12095)] 2023.2
 
+1. **ChatGPT: Jack of all trades, master of none.**
+
+    *Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, Mateusz Kochanek, Dominika Szydło, Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-Kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak, Przemysław Kazienko* [[pdf](https://arxiv.org/abs/2302.10724)] [[code](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)] 2023.2
+
 ## Blogs
 - [ChatGPT Official Blog](https://openai.com/blog/chatgpt/)  
 - [ChatGPTPro](https://chatgpt.pro/) 
