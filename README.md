@@ -5,18 +5,31 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 1. 【GPT-1】**Improving Language Understanding by Generative Pre-Training.**
 
     *Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever* [[pdf](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)] 2018.6  
+
 1. 【GPT-2】**Language Models are Unsupervised Multitask Learners.** 
 
     *Alec Radford, Jeff Wu, Rewon Child, D. Luan, Dario Amodei, Ilya Sutskeve* [[pdf](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)] 2019.2  
+
 1. 【GPT-3】**Language Models are Few-Shot Learners.** 
     
     *Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei* [[pdf](https://arxiv.org/abs/2005.14165)] 2020.5
+
+1. 【WebGPT】**WebGPT: Browser-assisted question-answering with human feedback.**
+
+    *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman* [[pdf](https://arxiv.org/abs/2112.09332)] 2021.12
+
+1. 【ToolFormer】**Toolformer: Language Models Can Teach Themselves to Use Tools.**
+
+    *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.04761)] 2023.2
+
 1. 【InstructGPT】**Training language models to follow instructions with human feedback.**
 
     *Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe* [[pdf](https://arxiv.org/pdf/2203.02155.pdf)] 2022.3  
+
 1. 【RLHF】**Augmenting Reinforcement Learning with Human Feedback.** 
 
     *W. Bradley Knox, Peter Stone* [[pdf](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)] 2011.7
+    
 1. 【PPO】**Proximal Policy Optimization Algorithms.**  
 
     *John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov* [[pdf](https://arxiv.org/abs/1707.06347)] 2017.7
@@ -25,7 +38,6 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, YaGuang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Vincent Zhao, Yanqi Zhou, Chung-Ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Pranesh Srinivasan, Laichee Man, Kathleen Meier-Hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-John, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le* [[pdf](https://arxiv.org/abs/2201.08239)] 2022.1
     
-
 1. 【Sparrow】 **Improving alignment of dialogue agents via targeted human judgements.**
 
     *Amelia Glaese, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh, Laura Weidinger, Martin Chadwick, Phoebe Thacker, Lucy Campbell-Gillingham, Jonathan Uesato, Po-Sen Huang, Ramona Comanescu, Fan Yang, Abigail See, Sumanth Dathathri, Rory Greig, Charlie Chen, Doug Fritz, Jaume Sanchez Elias, Richard Green, Soňa Mokrá, Nicholas Fernando, Boxi Wu, Rachel Foley, Susannah Young, Iason Gabriel, William Isaac, John Mellor, Demis Hassabis, Koray Kavukcuoglu, Lisa Anne Hendricks, Geoffrey Irving* [[pdf](https://arxiv.org/abs/2209.14375)] 2022.9 
@@ -119,6 +131,8 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 - [ChatGPTPro](https://chatgpt.pro/) 
 - [English version of ChatGPT prompting guide](https://github.com/f/awesome-chatgpt-prompts)  :star::star::star::star::star:
 - [Chinese version of ChatGPT prompting guide](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- [LLM failure archive (ChatGPT and beyond)](https://github.com/giuven95/chatgpt-failures)
+
 
 ## APIs
 - [【Non-Official】【Python】 acheong08/ChatGPT ](https://github.com/acheong08/ChatGPT)
