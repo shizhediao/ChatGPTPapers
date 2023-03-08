@@ -106,6 +106,10 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang* [[pdf](https://arxiv.org/abs/2302.06476)] 2023.2
 
+1. **Can ChatGPT Understand Too? A Comparative  Study on ChatGPT and Fine-tuned BERT.**
+
+    *Qihuang Zhong, Liang Ding, Juhua Liu, Bo Du, Dacheng Tao* [[pdf](https://arxiv.org/abs/2302.10198)] [[code](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT)] 2023.2
+
 1. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.**
 
     *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[pdf](https://arxiv.org/abs/2302.05206)] 2023.2
