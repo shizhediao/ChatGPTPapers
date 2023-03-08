@@ -136,7 +136,7 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 - [English version of ChatGPT prompting guide](https://github.com/f/awesome-chatgpt-prompts)  :star::star::star::star::star:
 - [Chinese version of ChatGPT prompting guide](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - [LLM failure archive (ChatGPT and beyond)](https://github.com/giuven95/chatgpt-failures)
-
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## APIs
 - [【Non-Official】【Python】 acheong08/ChatGPT ](https://github.com/acheong08/ChatGPT)
