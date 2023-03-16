@@ -16,7 +16,7 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
 1. 【GPT-4】 **GPT-4 Technical Report.**
 
-    *OpenAI* [[pdf](https://cdn.openai.com/papers/gpt-4.pdf)]
+    *OpenAI* [[pdf](https://cdn.openai.com/papers/gpt-4.pdf)] 2023.3
 
 1. 【WebGPT】**WebGPT: Browser-assisted question-answering with human feedback.**
 
