@@ -134,6 +134,14 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
     *Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, Mateusz Kochanek, Dominika Szydło, Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-Kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak, Przemysław Kazienko* [[pdf](https://arxiv.org/abs/2302.10724)] [[code](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)] 2023.2
 
+1. **LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models.**
+
+    *Shizhe Diao and Rui Pan and Hanze Dong and KaShun Shum and Jipeng Zhang and Wei Xiong and Tong Zhang* [[pdf](https://arxiv.org/abs/2306.12420)] [[code](https://github.com/OptimalScale/LMFlow)] 2023.3
+
+1. **DetGPT: Detect What You Need via Reasoning.**
+
+    *Renjie Pi and Jiahui Gao and Shizhe Diao and Rui Pan and Hanze Dong and Jipeng Zhang and Lewei Yao and Jianhua Han and Hang Xu and Lingpeng Kong and Tong Zhang* [[pdf](https://arxiv.org/abs/2305.14167)] [[code](https://github.com/OptimalScale/DetGPT)] 2023.5
+
 ## Blogs
 - [ChatGPT Official Blog](https://openai.com/blog/chatgpt/)  
 - [ChatGPTPro](https://chatgpt.pro/) 
