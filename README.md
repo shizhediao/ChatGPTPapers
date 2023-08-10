@@ -136,11 +136,11 @@ Must-read papers, related blogs and API tools on the pre-training and tuning met
 
 1. **LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models.**
 
-    *Shizhe Diao and Rui Pan and Hanze Dong and KaShun Shum and Jipeng Zhang and Wei Xiong and Tong Zhang* [[pdf](https://arxiv.org/abs/2304.06767)] [[code](https://github.com/OptimalScale/LMFlow)] 2023.3
+    *Shizhe Diao and Rui Pan and Hanze Dong and KaShun Shum and Jipeng Zhang and Wei Xiong and Tong Zhang* [[pdf](https://arxiv.org/abs/2306.12420)] [[code](https://github.com/OptimalScale/LMFlow)] 2023.3
 
 1. **RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment.**
 
-    *Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang* [[pdf](https://arxiv.org/abs/2306.12420)] [[code](https://github.com/OptimalScale/LMFlow)] 2023.4
+    *Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang* [[pdf](https://arxiv.org/abs/2304.06767)] [[code](https://github.com/OptimalScale/LMFlow)] 2023.4
 
 1. **DetGPT: Detect What You Need via Reasoning.**
 
